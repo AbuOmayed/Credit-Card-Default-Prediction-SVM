@@ -47,7 +47,7 @@ The SVM classifier demonstrates robust predictive capability in identifying clie
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/credit-card-default-prediction-svm.git
+git clone https://github.com/AbuOmayed/credit-card-default-prediction-svm.git
 cd credit-card-default-prediction-svm
 pip install -r requirements.txt
 jupyter notebook notebooks/credit_card_default_svm.ipynb
